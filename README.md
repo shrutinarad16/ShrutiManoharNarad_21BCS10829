@@ -19,12 +19,10 @@ UID    : 21BCS10996
 Contact Number: +91 9911390972
 
 
-## Website Link
-
 # Novelties/Features:
 1) News are categorise in differet sections.
 2) Highlighted/Breaking News leads at top as Pop-ups
 3) Weather Update
-4) 
+
 
 
